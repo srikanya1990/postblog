@@ -1,0 +1,7 @@
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\payload\PostDto.java
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\repository\PostRepository.java
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\serviceimpl\PostServiceImpl.java
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\web\PostRestController.java
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\entity\Post.java
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\SsdblogApplication.java
+D:\Java\Workspace\springboot\postblog\src\main\java\com\ssd\blog\serviceimpl\ErrorMessageGeneratrorValidation.java
